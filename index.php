@@ -5,11 +5,15 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>meow</title>
+        <title>Rodion Network</title>
         <link href="https://rawcdn.githack.com/hung1001/font-awesome-pro/v5/css/all.min.css" rel="stylesheet" type="text/css" />
         <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/brands.min.css" rel="stylesheet">
         <link href="/assets/accordion/accordion.css" rel="stylesheet">
         <link rel="stylesheet" href="/assets/main.css">
+        <link rel="icon" type="image/png" href="/assets/logo.png">
+        <meta name="description" content="Rodion Network - Minecraft Server Network">
+        <meta name="keywords" content="Minecraft, Server, Network, Rodion, Network, Minecraft Server, Minecraft Server Network">
+        <meta name="author" content="Rodion Network">
     </head>
     <body>
         <div class="bg">
