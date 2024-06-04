@@ -14,6 +14,12 @@
         <meta name="description" content="Rodion Network - Minecraft Server Network">
         <meta name="keywords" content="Minecraft, Server, Network, Rodion, Network, Minecraft Server, Minecraft Server Network">
         <meta name="author" content="Rodion Network">
+        <meta property="og:title" content="Rodion Network">
+        <meta property="og:description" content="Rodion Network - Minecraft Server Network">
+        <meta property="og:image" content="/assets/logo.png">
+        <meta property="og:url" content="https://rodion-network.com">
+        <meta property="og:type" content="website">
+        <meta property="og:site_name" content="Rodion Network">
     </head>
     <body>
         <div class="bg">
